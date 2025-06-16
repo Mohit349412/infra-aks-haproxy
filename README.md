@@ -12,7 +12,7 @@ This repository provisions an Azure Kubernetes Service (AKS) cluster using Terra
 
 1. **Clone this repo**
    ```sh
-   git clone https://github.com/yourorg/infra-aks-haproxy.git
+   git clone https://github.com/Mohit349412/infra-aks-haproxy.git
    cd infra-aks-haproxy
    ```
 
